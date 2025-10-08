@@ -37,26 +37,6 @@ engi-ai/
 
 ---
 
-## 🚀 Quick Start
-
-### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/brurenno/engi-ai.git
-cd engi-ai
-
-2️⃣ Install dependencies
-pip install -r requirements.txt
-
-3️⃣ Run a quick SPC KPI demo
-python -m src.analytics.kpi_spc --csv datasets/sample_spc.csv --lsl 9.5 --usl 10.5
-
-
-Example Output:
-
-Count=100 | Mean=10.02 | Std=0.24
-Cp=0.69 | Cpk=0.61 | PPM_est≈136,000  
--> Action: Investigate process centering and variation
-
 💡 Vision
 
 Engi is not just an AI — she’s a teaching partner that helps engineers and students learn how to apply data and automation to real-world challenges.
