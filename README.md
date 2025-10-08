@@ -37,7 +37,7 @@ engi-ai/
 
 ---
 
-💡 Vision
+## 💡 Vision
 
 Engi is not just an AI — she’s a teaching partner that helps engineers and students learn how to apply data and automation to real-world challenges.
 This project’s mission is to:
@@ -57,7 +57,7 @@ v0.4	Discord/AI integrations	⏳ planned
 
 ---
 
-🪄 About the Creator
+## 🪄 About the Creator
 
 👩‍💻 Bruna Rennó
 Mechanical & Quality Engineer | Data Science Student | Creator of Engi AI
