@@ -55,6 +55,8 @@ v0.2	Visualization & CLI dashboard	⏳ planned
 v0.3	Predictive maintenance mini-demo	⏳ planned
 v0.4	Discord/AI integrations	⏳ planned
 
+---
+
 🪄 About the Creator
 
 👩‍💻 Bruna Rennó
