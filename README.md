@@ -21,22 +21,6 @@ This repository will grow into a collection of:
 
 ---
 
-## 🧩 Repository Structure
-
-
-
-engi-ai/
-├─ docs/ → tutorials, architecture & learning notes
-├─ src/
-│ ├─ analytics/ → SPC & KPI calculations
-│ ├─ automation/ → tools and process automations
-│ └─ ml/ → anomaly detection & ML experiments
-├─ datasets/ → example datasets
-└─ examples/ → Jupyter notebooks (learning demos)
-
-
----
-
 ## 💡 Vision
 
 Engi is not just an AI — she’s a teaching partner that helps engineers and students learn how to apply data and automation to real-world challenges.
