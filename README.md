@@ -70,7 +70,7 @@ Matplotlib/Plotly
 Mechanical & Quality Engineer | Data Science Student | Creator of Engi AI
 💬 Where mechanical systems meet artificial intelligence.
 
-🌐 LinkedIn
+🌐 LinkedIn - https://www.linkedin.com/in/brunaffrenno/
 
 💜 Instagram - @controlalteng
 
