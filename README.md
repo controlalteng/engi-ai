@@ -54,15 +54,6 @@ v0.1	SPC KPIs + anomaly detection baseline	✅ in progress
 v0.2	Visualization & CLI dashboard	⏳ planned
 v0.3	Predictive maintenance mini-demo	⏳ planned
 v0.4	Discord/AI integrations	⏳ planned
-🧠 Technologies
-
-Python 3.10+
-
-Pandas, Numpy, Scipy
-
-Matplotlib/Plotly
-
-(future) FastAPI, scikit-learn, LangChain
 
 🪄 About the Creator
 
