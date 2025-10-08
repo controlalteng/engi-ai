@@ -1,3 +1,4 @@
+💜 README.md — para o repositório Engi AI
 # Engi AI 🤖💜 — Engineering the Future with Data and Imagination
 
 **Engi** is an educational AI assistant created by **Bruna Rennó**, a Mechanical and Quality Engineer currently studying Data Science.  
@@ -22,3 +23,75 @@ This repository will grow into a collection of:
 
 ## 🧩 Repository Structure
 
+
+
+engi-ai/
+├─ docs/ → tutorials, architecture & learning notes
+├─ src/
+│ ├─ analytics/ → SPC & KPI calculations
+│ ├─ automation/ → tools and process automations
+│ └─ ml/ → anomaly detection & ML experiments
+├─ datasets/ → example datasets
+└─ examples/ → Jupyter notebooks (learning demos)
+
+
+---
+
+## 🚀 Quick Start
+
+### 1️⃣ Clone the repo
+```bash
+git clone https://github.com/brurenno/engi-ai.git
+cd engi-ai
+
+2️⃣ Install dependencies
+pip install -r requirements.txt
+
+3️⃣ Run a quick SPC KPI demo
+python -m src.analytics.kpi_spc --csv datasets/sample_spc.csv --lsl 9.5 --usl 10.5
+
+
+Example Output:
+
+Count=100 | Mean=10.02 | Std=0.24
+Cp=0.69 | Cpk=0.61 | PPM_est≈136,000  
+-> Action: Investigate process centering and variation
+
+💡 Vision
+
+Engi is not just an AI — she’s a teaching partner that helps engineers and students learn how to apply data and automation to real-world challenges.
+This project’s mission is to:
+
+📘 Make engineering data science accessible to everyone
+
+⚙️ Blend traditional quality principles with modern analytics
+
+💜 Inspire curiosity and creativity through open learning
+
+🌍 Roadmap
+Version	Focus	Status
+v0.1	SPC KPIs + anomaly detection baseline	✅ in progress
+v0.2	Visualization & CLI dashboard	⏳ planned
+v0.3	Predictive maintenance mini-demo	⏳ planned
+v0.4	Discord/AI integrations	⏳ planned
+🧠 Technologies
+
+Python 3.10+
+
+Pandas, Numpy, Scipy
+
+Matplotlib/Plotly
+
+(future) FastAPI, scikit-learn, LangChain
+
+🪄 About the Creator
+
+👩‍💻 Bruna Rennó
+Mechanical & Quality Engineer | Data Science Student | Creator of Engi AI
+💬 Where mechanical systems meet artificial intelligence.
+
+🌐 LinkedIn
+
+💜 Instagram - @controlalteng
+
+🧠 Portfolio (coming soon)
